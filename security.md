@@ -1,8 +1,9 @@
-* Fresh News
-https://www.sans.org/newsletters/newsbites
-https://z3s.pl
-https://sekurak.pl
+## Fresh News
+* https://www.sans.org/newsletters/newsbites
+* https://z3s.pl
+* https://sekurak.pl
 
+## Other
 * Matt Suiche (security blog)
 https://medium.com/@msuiche
 
