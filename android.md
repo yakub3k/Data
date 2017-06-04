@@ -5,6 +5,10 @@ https://www.sitepoint.com/animating-android-floating-action-button/
 * http://androidannotations.org/
 * https://github.com/androidannotations/androidannotations/wiki
 
+### Decompilers / Downloaders
+* https://www.apkdecompilers.com/
+* https://apkpure.com/
+
 
 ### All Android Studio releases ###
 https://developer.android.com/studio/archive.html
