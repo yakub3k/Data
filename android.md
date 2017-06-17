@@ -8,6 +8,7 @@ https://www.sitepoint.com/animating-android-floating-action-button/
 ### Decompilers / Downloaders
 * https://www.apkdecompilers.com/
 * https://apkpure.com/
+* https://github.com/Konloch/bytecode-viewer/releases
 
 
 ### All Android Studio releases ###
