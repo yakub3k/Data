@@ -6,6 +6,8 @@
 ## Other
 * Matt Suiche (security blog)
 https://medium.com/@msuiche
+* ZipBomb
+https://blog.haschek.at/2017/how-to-defend-your-website-with-zip-bombs.html
 
 * Complete 63 pages solution for the Student Crackme.
 This solution is a great opportunities for beginner to learn about reverse engineering.
