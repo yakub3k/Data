@@ -19,3 +19,6 @@ https://github.com/misterch0c/shadowbroker
 ## Malware Exploit Database
 * https://github.com/misterch0c/malSploitBase
 * https://www.pwnmalw.re/
+
+## Youtube 
+* LiveOverflow https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
